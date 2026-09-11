@@ -1,0 +1,8 @@
+# never commit footage, renders or anything key-shaped
+*.mp4
+*.mov
+*.wav
+*.key
+.env
+.env.*
+work/
